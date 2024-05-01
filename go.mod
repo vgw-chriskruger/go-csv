@@ -1,3 +1,3 @@
-module github.com/echa/go-csv
+module github.com/vgw-chriskruger/go-csv
 
 go 1.17
